@@ -1,3 +1,0 @@
-<php>
-phpinfp();
-11
